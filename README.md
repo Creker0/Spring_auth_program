@@ -24,8 +24,8 @@ This repository contains a simple user authorization and authentication system i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/user-authentication.git
-   cd user-authentication
+   git clone https://github.com/Creker0/Spring_auth_program
+   cd Spring_auth_program
    ```
 
 2. Configure the PostgreSQL database in `application.properties`.
